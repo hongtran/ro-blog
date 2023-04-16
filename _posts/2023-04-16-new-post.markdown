@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: POST-TITLE
 date: 2023-04-16 14:22:59 +0700
 categories: category 1
